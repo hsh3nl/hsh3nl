@@ -1,7 +1,5 @@
 ## Hey there! 👋
 
-<hr>
-
 I'm Aaron, a web developer, with a healthy interest in great UIUX design and structured, disciplined code.
 
 ##### * More content to come soon!
