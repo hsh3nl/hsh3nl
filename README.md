@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hey there! 👋
+
+<hr>
+
+I'm Aaron, a web developer, with a healthy interest in great UIUX design and structured, disciplined code.
+
+##### * More content to come soon!
 
 <!--
 **hsh3nl/hsh3nl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
